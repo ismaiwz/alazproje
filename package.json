@@ -1,0 +1,18 @@
+{
+  "name": "alazproje",
+  "version": "1.0.0",
+  "description": "Bu proje İsmail AYDINLIK tarafından Alaz Takımı mülakat süreci kapsamında yazılmıştır.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "net": "^1.0.2",
+    "ws": "^8.22.0"
+  },
+  "devDependencies": {}
+}
